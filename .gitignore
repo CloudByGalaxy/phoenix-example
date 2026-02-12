@@ -35,3 +35,4 @@ hello_world-*.tar
 npm-debug.log
 /assets/node_modules/
 
+CLAUDE.md
